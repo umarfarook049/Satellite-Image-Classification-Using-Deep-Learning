@@ -1,0 +1,32 @@
+STEP #1: Download and Install Python Version 3.7.0
+
+STEP #2: pip install numpy==1.19.2
+	 pip install pandas==0.25.3
+	 pip install matplotlib==3.1.1
+	 pip install keras==2.3.1
+	 pip install tensorflow==1.14.0
+	 pip install h5py==2.10.0
+ 	 pip install pillow==6.2.2
+	 pip install opencv-python==4.1.1.26
+	 pip install protobuf==3.16.0
+	 pip install scikit-learn==0.22.2.post1
+	 pip install seaborn==0.10.1
+ 	 pip install sklearn==0.0
+	 pip install opencv-contrib-python==4.3.0.36
+	 pip install urllib3==1.22
+
+STEP #3: Go To The Source Code Files
+
+STEP #4: Double Click On "run.bat" File To Run The Application
+
+STEP #5: Upload The Dataset For Training The Algorithms
+
+STEP #6: Click On "Extract Features From Images" To Run The 
+
+STEP #7: Click On "" To Run The BAT Algorithm
+
+STEP #8: Click On "Run BEE Algorithm" To Run The BEE Algorithm
+
+STEP #9: Click On "Upload & Predit Test Data" To Upload and Predict With Test Data
+
+STEP #10: Click On "Accuracy Graph" To Compare The Accuracy Of The Algorithms With Graph
